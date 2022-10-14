@@ -1,6 +1,6 @@
 # Disclaimer
 This is a copy of original LIMO_ROS repository that includes a simplified gazebo-simulated LIMO package.
-
+Original LIMO gazebo simulation package can be found at https://github.com/agilexrobotics/limo_ros.git.
 
 # limo_ros
 This repository contains ROS packages for limo. 
